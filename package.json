@@ -20,18 +20,18 @@
   "author": "laco <laco0416+github@gmail.com>",
   "license": "MIT",
   "peerDependencies": {
-    "@angular/core": ">=4.0.0",
-    "@angular/platform-browser": ">=4.0.0",
-    "@angular/compiler": ">=4.0.0"
+    "@angular/core": "5.1.2",
+    "@angular/platform-browser": "5.1.2",
+    "@angular/compiler": "5.1.2"
   },
   "devDependencies": {
-    "@angular/common": "^4.0.0",
-    "@angular/compiler": "^4.0.0",
-    "@angular/compiler-cli": "^4.0.0",
-    "@angular/core": "^4.0.0",
-    "@angular/forms": "^4.0.0",
-    "@angular/platform-browser": "^4.0.0",
-    "@angular/platform-browser-dynamic": "^4.0.0",
+    "@angular/common": "5.1.2",
+    "@angular/compiler": "5.1.2",
+    "@angular/compiler-cli": "5.1.2",
+    "@angular/core": "5.1.2",
+    "@angular/forms": "5.1.2",
+    "@angular/platform-browser": "5.1.2",
+    "@angular/platform-browser-dynamic": "5.1.2",
     "@types/jasmine": "2.5.40",
     "core-js": "^2.4.1",
     "jasmine": "^2.5.3",
